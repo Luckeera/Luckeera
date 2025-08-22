@@ -1,6 +1,6 @@
 #  Lucas Valente
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack e Engenheiro de Dados`**
 
 Meu nome é Lucas Valente de Lima, tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Estou em constante busca por aprendizado, com o objetivo de dominar o máximo de ferramentas e linguagens possíveis para me tornar um desenvolvedor completo.
 
