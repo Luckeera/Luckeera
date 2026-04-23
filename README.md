@@ -1,112 +1,48 @@
-#  Lucas Valente
+# Olá, eu sou o Lucas Valente! 👋
 
-**`Desenvolvedor FullStack e Engenheiro de Dados`**
+**`Engenheiro de Software & Dados | Cloud AWS & DevOps`**
 
-Meu nome é Lucas Valente de Lima, tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Estou em constante busca por aprendizado, com o objetivo de dominar o máximo de ferramentas e linguagens possíveis para me tornar um desenvolvedor completo.
-
-<p align="left">
-    <a href="https://github.com/Luckeera?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Luckeera?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Luckeera?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Luckeera?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Sou um desenvolvedor focado em construir soluções escaláveis e eficientes. Atualmente, trabalho na modernização de arquiteturas, migrando monólitos para microsserviços que atendem mais de **330.000 usuários**. Tenho forte atuação em nuvem (AWS), onde desenho pipelines de dados e automatizo processos de CI/CD.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 O que eu faço
+- **Arquitetura de Software:** Especialista em Python (Django/FastAPI) e Node.js, com foco em microsserviços e performance.
+- **Engenharia de Dados:** Criação de pipelines ETL robustos utilizando PySpark, AWS Glue e S3 para processamento de grandes volumes de dados (1.5M+ registros).
+- **Cloud & DevOps:** Implementação de infraestrutura como código (Terraform) e esteiras de CI/CD que reduzem o tempo de deploy em até 90%.
+- **Liderança Técnica:** Experiência liderando squads ágeis e conduzindo code reviews para garantir qualidade e performance.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+### 🛠️ Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Cloud & DevOps** | AWS (Glue, Lambda, S3, Athena), Docker, Terraform, GitHub Actions |
+| **Backend** | Python (Django, FastAPI), Node.js (Fastify, Express), Redis, BullMQ |
+| **Data Engineering** | PySpark, Apache Spark, Pandas, SQL Avançado, Modelagem Dimensional |
+| **Frontend/Mobile** | React.js, React Native, TypeScript, TailwindCSS |
+| **Banco de Dados** | PostgreSQL, MySQL, Redis |
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
- 
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+### 📊 Destaques e Impacto
+- ☁️ **AWS Certified Cloud Practitioner**
+- 📈 **Performance:** Redução de 50% na latência de requisições em sistemas críticos.
+- 💰 **FinOps:** Otimização de custos de nuvem em ~20% através de políticas de ciclo de vida e monitoramento.
+- ⚡ **Agilidade:** Entrega de features 3x mais rápido utilizando desenvolvimento assistido por IA e automação.
 
-<img 
-    align="left" 
-    alt="Django"
-    title="Django" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-/>
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+### 📬 Vamos conversar?
+- [LinkedIn](https://www.linkedin.com/in/lucas-lima-bb568b355/)
+- [E-mail](mailto:lvldgls@gmail.com)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Luckeera&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckeera&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luckeera&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckeera&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
-
