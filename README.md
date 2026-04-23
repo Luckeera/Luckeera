@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Valente! 👋
+# Lucas Valente de Lima 
 
 **`Engenheiro de Software & Dados | Cloud AWS & DevOps`**
 
