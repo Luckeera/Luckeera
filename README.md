@@ -40,9 +40,13 @@ Sou um desenvolvedor focado em construir soluções escaláveis e eficientes. At
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📉 Atividade e Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luckeera&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckeera&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Luckeera/Luckeera/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
