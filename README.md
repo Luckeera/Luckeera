@@ -2,7 +2,7 @@
 
 **`Engenheiro de Software & Dados | Cloud AWS & DevOps`**
 
-Sou um desenvolvedor focado em construir soluções escaláveis e eficientes. Atualmente, trabalho na modernização de arquiteturas, migrando monólitos para microsserviços que atendem mais de **330.000 usuários**. Tenho forte atuação em nuvem (AWS), onde desenho pipelines de dados e automatizo processos de CI/CD.
+Sou um desenvolvedor focado em construir soluções escaláveis e eficientes. Atualmente, trabalho na modernização de arquiteturas, migrando monólitos para microsserviços que atendem mais de **5000 usuários**. Tenho forte atuação em nuvem (AWS), onde desenho pipelines de dados e automatizo processos de CI/CD.
 
 ---
 
@@ -36,14 +36,5 @@ Sou um desenvolvedor focado em construir soluções escaláveis e eficientes. At
 
 ### 📬 Vamos conversar?
 - [LinkedIn](https://www.linkedin.com/in/lucas-lima-bb568b355/)
-- [E-mail](mailto:lvldgls@gmail.com)
-
----
-
-### 📉 Atividade e Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luckeera&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckeera&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
+- lvldgls@gmail.com
 
